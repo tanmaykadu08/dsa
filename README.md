@@ -11,6 +11,7 @@ The DSA road!.
 | [0088-merge-sorted-array](https://github.com/tanmaykadu08/dsa/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/tanmaykadu08/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/tanmaykadu08/dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/tanmaykadu08/dsa/tree/master/0704-binary-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/tanmaykadu08/dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ The DSA road!.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tanmaykadu08/dsa/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/tanmaykadu08/dsa/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
