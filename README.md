@@ -7,6 +7,7 @@ The DSA road!.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanmaykadu08/dsa/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tanmaykadu08/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/tanmaykadu08/dsa/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/tanmaykadu08/dsa/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/tanmaykadu08/dsa/tree/master/2965-find-missing-and-repeated-values) |
@@ -26,6 +27,7 @@ The DSA road!.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tanmaykadu08/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/tanmaykadu08/dsa/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/tanmaykadu08/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
