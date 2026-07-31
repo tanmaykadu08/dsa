@@ -10,6 +10,7 @@ The DSA road!.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanmaykadu08/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/tanmaykadu08/dsa/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/tanmaykadu08/dsa/tree/master/0287-find-the-duplicate-number) |
+| [0643-maximum-average-subarray-i](https://github.com/tanmaykadu08/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/tanmaykadu08/dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -42,4 +43,8 @@ The DSA road!.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tanmaykadu08/dsa/tree/master/0088-merge-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/tanmaykadu08/dsa/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
