@@ -7,6 +7,7 @@ The DSA road!.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanmaykadu08/dsa/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/tanmaykadu08/dsa/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/tanmaykadu08/dsa/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/tanmaykadu08/dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -25,6 +26,7 @@ The DSA road!.
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/tanmaykadu08/dsa/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/tanmaykadu08/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -34,4 +36,8 @@ The DSA road!.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tanmaykadu08/dsa/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/tanmaykadu08/dsa/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
